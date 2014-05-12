@@ -193,8 +193,7 @@
                     <div class="form-horizontal">
                         <fieldset>
                             <legend>Change Profile Pic</legend>
-                            <asp:UpdatePanel ID="UpdatePanel3" runat="server">
-                                <ContentTemplate>
+                           
                             <asp:Panel ID="Panel3" runat="server" DefaultButton="btnUpload">
                             <div class="form-group">
                                 <div class="col-lg-8">
@@ -209,8 +208,7 @@
                                 </div>
                             </div>
                             </asp:Panel>
-                                    </ContentTemplate>
-                            </asp:UpdatePanel>
+                                   
                         </fieldset>
                     </div>
                 </div>
