@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="music-connect" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\College\\2nd\ Sem-\ Spring\ 14\\CMPE\ 272\ Enterprise\\Project\\MusicConnect\\MusicConnect\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\College\\2nd\ Sem-\ Spring\ 14\\CMPE\ 272\ Enterprise\\Project\\MusicConnect\\MusicConnect\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

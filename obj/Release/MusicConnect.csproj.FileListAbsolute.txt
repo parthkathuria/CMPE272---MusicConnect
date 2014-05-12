@@ -1,0 +1,6 @@
+E:\College\2nd Sem- Spring 14\CMPE 272 Enterprise\Project\MusicConnect\MusicConnect\bin\MusicConnect.dll.config
+E:\College\2nd Sem- Spring 14\CMPE 272 Enterprise\Project\MusicConnect\MusicConnect\bin\MusicConnect.dll
+E:\College\2nd Sem- Spring 14\CMPE 272 Enterprise\Project\MusicConnect\MusicConnect\bin\MusicConnect.pdb
+E:\College\2nd Sem- Spring 14\CMPE 272 Enterprise\Project\MusicConnect\MusicConnect\obj\Release\MusicConnect.dll
+E:\College\2nd Sem- Spring 14\CMPE 272 Enterprise\Project\MusicConnect\MusicConnect\obj\Release\MusicConnect.pdb
+E:\College\2nd Sem- Spring 14\CMPE 272 Enterprise\Project\MusicConnect\MusicConnect\obj\Release\MusicConnect.csprojResolveAssemblyReference.cache
